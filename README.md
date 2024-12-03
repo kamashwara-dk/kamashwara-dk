@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamashwara-dk&theme=matrix" alt="kamashwara_dk" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamashwara-dk&theme=matrix" alt="kamashwara_dk" /></a> </p>
 
 
 <br>
@@ -89,17 +89,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamashwara-dk&show_icons=true&theme=midnight-purple&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=kamashwara-dk&theme=merko&hide_border=false" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamashwara-dk&layout=compact&theme=merko&hide_border=false" height="150" alt="Top Languages" />
-</div>
+ 
 
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kamashwara-dk&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
-
-
-<br>
-<div align ="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02293768-9242-47e1-bf8f-d084ba0a2d1d"     width="300">
-</div>

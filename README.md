@@ -3,17 +3,17 @@
 <h3 align="center">A passionate Cloud computing developer and an aspiring natural Image processing developer hailing from India</h3>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kamashwara_dk/count.svg?" />
+  <img src="https://profile-counter.glitch.me/kamashwara-dk/count.svg?" />
 </div>
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamashwara_dk&theme=matrix" alt="kamashwara_dk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamashwara-dk&theme=matrix" alt="kamashwara_dk" /></a> </p>
 
 
 <br>
 
-- 🌱 I’m currently learning Cyber Security,along with doing some projects related to AI and image processing **Google Cloud computing Professional Certificate**
+- 🌱 I’m currently learning cloud computing ,along with doing some projects related to AI and image processing **Google Cloud computing Professional Certificate**
 
 - 📝 I regularly write articles on [https://techieworld.hashnode.dev/](https://techieworld.hashnode.dev/)
 
@@ -87,14 +87,14 @@
 <br> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamashwara_dk&show_icons=true&theme=midnight-purple&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=kamashwara_dk&theme=merko&hide_border=false" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamashwara_dk&layout=compact&theme=merko&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamashwara-dk&show_icons=true&theme=midnight-purple&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=kamashwara-dk&theme=merko&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamashwara-dk&layout=compact&theme=merko&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kamashwara_dk&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=kamashwara-dk&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 

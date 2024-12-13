@@ -48,8 +48,4 @@
 <br> 
 <br> 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamashwara-dk&show_icons=true&theme=midnight-purple&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=kamashwara-dk&theme=merko&hide_border=false" height="150" alt="GitHub Streak" />
- 
 

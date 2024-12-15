@@ -24,9 +24,6 @@
 - ⚡ Fun fact **I am also good at Web-Development and playing free fire 😅**
 
 <br> 
-<br> 
-<br> 
-
 
 <h3 align="left">Connect with me :</h3>
 <div align="center">

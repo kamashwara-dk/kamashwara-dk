@@ -7,7 +7,7 @@ I'm a Cloud Engineer . I'm passionate about building beautiful user interfaces, 
 * 🚀 I’m currently working on a Rail track Defect Detection model using Machine Learning Lib.
 * 🌱 I’m currently learning Vector.AI and CNN Models.
 * 💬 Ask me about anything related to Machine Learning and Cloud.
-* 📫 How to reach me:kamashwaradk@gmail.com
+* 📫 How to reach me: kamashwaradk@gmail.com
 
 ---
 
@@ -41,6 +41,5 @@ Here are some of the technologies I work with:
 ### 🔗 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/[Your-LinkedIn-Username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your-LinkedIn-Username]" height="30" width="40" /></a>
-<a href="https://twitter.com/[Your-Twitter-Username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Your-Twitter-Username]" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamashwara-dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamashwara-dk" height="30" width="40" /></a>
 </p>

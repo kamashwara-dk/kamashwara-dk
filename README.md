@@ -7,8 +7,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Software+Engineer+%7C+Open+Source+Enthusiast;President,+Andropedia+Club" alt="Banner: Kamashwara DK"/>
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamashwara-dk&theme=matrix" alt="kamashwara_dk" /></a> </p>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kamashwara-dk&theme=matrix&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Experience,Issues" alt="kamashwara_dk" />
+  </a>
+</p>
 
 ---
 
